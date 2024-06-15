@@ -1,5 +1,4 @@
-,
-  {
+{
     "collegeName": "Indian Institute of Technology Roorke",
     "students": [
       {"studentId": 1, "name": "Arjun Suresh", "age": 22, "major": "Computer Science", "gpa": 3.8},
