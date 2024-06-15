@@ -13,12 +13,7 @@
     {"name": "Delhi Technological University", "collegeId": "DTU"},
     {"name": "National Institute of Technology Tiruchirappalli", "collegeId": "NITT"},
     {"name": "National Institute of Technology Karnataka, Surathkal", "collegeId": "NITK"},
-    {"name": "National Institute of Technology Warangal", "collegeId": "NITW"},
-    {"name": "Birla Institute of Technology and Science Pilani", "collegeId": "BITS"},
-    {"name": "Anna University Chennai", "collegeId": "AU"},
-    {"name": "Jawaharlal Nehru University", "collegeId": "JNU"},
-    {"name": "Christ University Bangalore", "collegeId": "CU"},
-    {"name": "Jamia Millia Islamia", "collegeId": "JMI"},
-    {"name": "Aligarh Muslim University", "collegeId": "AMU"}
+    {"name": "National Institute of Technology Patna", "collegeId": "NITP"},
+    {"name": "Birla Institute of Technology and Science Pilani", "collegeId": "BITS"}
 ]
 }
