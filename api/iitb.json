@@ -1,15 +1,19 @@
 {
-    "collegeName": "Indian Institute of Technology Bombay",
-    "students": [
-      {"studentId": 1, "name": "Rahul Sharma", "age": 22, "major": "Computer Science", "gpa": 3.8},
-      {"studentId": 2, "name": "Priya Patel", "age": 21, "major": "Electrical Engineering", "gpa": 3.9},
-      {"studentId": 3, "name": "Amit Singh", "age": 23, "major": "Mechanical Engineering", "gpa": 3.7},
-      {"studentId": 4, "name": "Kritika Verma", "age": 20, "major": "Chemical Engineering", "gpa": 3.6},
-      {"studentId": 5, "name": "Sandeep Reddy", "age": 22, "major": "Civil Engineering", "gpa": 3.5},
-      {"studentId": 6, "name": "Neha Kapoor", "age": 21, "major": "Biotechnology", "gpa": 3.9},
-      {"studentId": 7, "name": "Vivek Rajput", "age": 24, "major": "Mathematics", "gpa": 3.8},
-      {"studentId": 8, "name": "Deepika Mishra", "age": 20, "major": "Physics", "gpa": 3.7},
-      {"studentId": 9, "name": "Ravi Kumar", "age": 22, "major": "Biology", "gpa": 3.6},
-      {"studentId": 10, "name": "Anjali Gupta", "age": 21, "major": "Economics", "gpa": 3.9}
-    ]
-  }
+ "data" : [
+    {"name": "Indian Institute of Technology Bombay", "collegeId": "IITB"},
+    {"name": "Indian Institute of Technology Delhi", "collegeId": "IITD"},
+    {"name": "Indian Institute of Technology Madras", "collegeId": "IITM"},
+    {"name": "Indian Institute of Technology Kanpur", "collegeId": "IITK"},
+    {"name": "Indian Institute of Technology Kharagpur", "collegeId": "IITKGP"},
+    {"name": "Indian Institute of Technology Roorkee", "collegeId": "IITR"},
+    {"name": "Indian Institute of Technology Guwahati", "collegeId": "IITG"},
+    {"name": "Indian Institute of Technology Hyderabad", "collegeId": "IITH"},
+    {"name": "Indian Institute of Technology Indore", "collegeId": "IITI"},
+    {"name": "Indian Institute of Science Bangalore", "collegeId": "IISc"},
+    {"name": "Delhi Technological University", "collegeId": "DTU"},
+    {"name": "National Institute of Technology Tiruchirappalli", "collegeId": "NITT"},
+    {"name": "National Institute of Technology Karnataka, Surathkal", "collegeId": "NITK"},
+    {"name": "National Institute of Technology Patna", "collegeId": "NITP"},
+    {"name": "Birla Institute of Technology and Science Pilani", "collegeId": "BITS"}
+]
+}
